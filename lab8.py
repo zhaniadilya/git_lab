@@ -14,3 +14,4 @@ else: print('Ne palindrom')
 
 #team work
 print("Hi Aiym!")
+print("How are you doing?")
