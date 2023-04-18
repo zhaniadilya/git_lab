@@ -11,3 +11,6 @@ for i in range(len(s)//2):
         break
 if flag: print('Palindrom')
 else: print('Ne palindrom')
+
+#team work
+print("Hi Aiym!")
